@@ -5,7 +5,7 @@
 }
 
 :root {
-    --text-color: white;
+    --text-color: rgb(255, 255, 255);
     --bg-url: url(./assets/bg-mobile.jpg);
     --stroke-color: rgb(255, 255, 255, 0.5);
     --surface-color: rgb(255, 255, 255, 0.05);
